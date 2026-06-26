@@ -231,17 +231,51 @@ Include:
 
 ---
 
-# 📜 License
+📜 GNU General Public License (GPL v3) Summary
 
-This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+The GNU General Public License (GPL) version 3 is a free and open-source software license created by the Free Software Foundation (FSF).
 
-You are free to:
+Its purpose is to ensure that software remains free to use, study, modify, and share, while protecting those freedoms for everyone.
 
-- Use the source code.
-- Study the source code.
+✅ What You Can Do
+
+- Use the software for any purpose.
+- Study how the software works.
+- Access the source code.
 - Modify the source code.
-- Share the source code.
-- Contribute improvements.
+- Share original copies.
+- Distribute modified versions.
+
+📌 Your Responsibilities
+
+If you distribute the software or a modified version:
+
+- Keep the software under the GPL v3 license.
+- Make the source code available.
+- Include the copyright notice.
+- Include a copy of the GPL v3 license.
+- Clearly indicate that changes have been made.
+
+❌ What You Cannot Do
+
+- Remove users' GPL rights.
+- Distribute modified versions under a closed-source license.
+- Prevent recipients from accessing the source code when required by GPL.
+- Misrepresent the original authorship of the project.
+
+⚠ No Warranty
+
+Software released under the GPL v3 is provided "as is", without any warranty. The authors are not responsible for any damages or problems resulting from its use.
+
+❤️ Open Source Philosophy
+
+GPL v3 is designed to protect software freedom. It encourages collaboration, learning, and community-driven development while ensuring that improvements shared with others remain open under the same license.
+
+---
+
+This is only a summary.
+
+For the complete legal terms and conditions, please read the official GNU General Public License Version 3 included in the "LICENSE" file.
 
 ---
 
